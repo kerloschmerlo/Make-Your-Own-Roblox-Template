@@ -1,4 +1,4 @@
-# SandboxTemplate
+# Make-Your-Own-Roblox-Template
 Simple basic sandbox code to help developers get started on creating their own imagination platform!
 
 Be sure to edit the favicon and the name Imploxia in the code to whichever name you chose for your sandbox site.
